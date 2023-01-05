@@ -1,0 +1,12 @@
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/bin/Debug/net5.0/TEngineServer.Instrument.deps.json
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/bin/Debug/net5.0/TEngineServer.Instrument.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/bin/Debug/net5.0/ref/TEngineServer.Instrument.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/bin/Debug/net5.0/TEngineServer.Instrument.pdb
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/Instrument.csproj.AssemblyReference.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/Instrument.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/Instrument.AssemblyInfoInputs.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/Instrument.AssemblyInfo.cs
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/Instrument.csproj.CoreCompileInputs.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/TEngineServer.Instrument.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/ref/TEngineServer.Instrument.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/Debug/net5.0/TEngineServer.Instrument.pdb

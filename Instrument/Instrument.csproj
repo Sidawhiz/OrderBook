@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <LandVersion>9.0</LandVersion>
+    <RootNameSpace>TEngineServer.Instrument</RootNameSpace>
+    <AssemblyName>TEngineServer.Instrument</AssemblyName>
+  </PropertyGroup>
+
+</Project>

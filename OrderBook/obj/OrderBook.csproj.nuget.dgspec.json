@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/manaskopparicloud.com/Projects/TEngineServer/OrderBook/OrderBook.csproj": {}
+  },
+  "projects": {
+    "/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/Instrument.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/Instrument.csproj",
+        "projectName": "TEngineServer.Instrument",
+        "projectPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/Instrument.csproj",
+        "packagesPath": "/Users/manaskopparicloud.com/.nuget/packages/",
+        "outputPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/manaskopparicloud.com/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/manaskopparicloud.com/Projects/TEngineServer/Order/Order.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manaskopparicloud.com/Projects/TEngineServer/Order/Order.csproj",
+        "projectName": "TEngineServer.Order",
+        "projectPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/Order/Order.csproj",
+        "packagesPath": "/Users/manaskopparicloud.com/.nuget/packages/",
+        "outputPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/manaskopparicloud.com/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/manaskopparicloud.com/Projects/TEngineServer/OrderBook/OrderBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/manaskopparicloud.com/Projects/TEngineServer/OrderBook/OrderBook.csproj",
+        "projectName": "TEngineServer.OrderBook",
+        "projectPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/OrderBook/OrderBook.csproj",
+        "packagesPath": "/Users/manaskopparicloud.com/.nuget/packages/",
+        "outputPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/OrderBook/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/manaskopparicloud.com/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/Instrument.csproj": {
+                "projectPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/Instrument/Instrument.csproj"
+              },
+              "/Users/manaskopparicloud.com/Projects/TEngineServer/Order/Order.csproj": {
+                "projectPath": "/Users/manaskopparicloud.com/Projects/TEngineServer/Order/Order.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/bin/Debug/net5.0/TEngineServer.Order.deps.json
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/bin/Debug/net5.0/TEngineServer.Order.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/bin/Debug/net5.0/ref/TEngineServer.Order.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/bin/Debug/net5.0/TEngineServer.Order.pdb
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/Order.csproj.AssemblyReference.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/Order.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/Order.AssemblyInfoInputs.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/Order.AssemblyInfo.cs
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/Order.csproj.CoreCompileInputs.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/TEngineServer.Order.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/ref/TEngineServer.Order.dll
+/Users/manaskopparicloud.com/Projects/TEngineServer/Order/obj/Debug/net5.0/TEngineServer.Order.pdb

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{50DEF412-2870-480D-AB82-676A0099D533}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrderBook/OrderBook.cs">
+    <Files>
+      <File FileName="OrderBook/OrderBook.cs" Line="151" Column="18" />
+      <File FileName="OrderBook/OrderBookSpread.cs" />
+      <File FileName="OrderBook/IRetrieveOrderBook.cs" />
+      <File FileName="OrderBook/IReadOnlyOrderBook.cs" />
+      <File FileName="OrderBook/IOrderEntryOrderBook.cs" />
+      <File FileName="Instrument/Security.cs" />
+      <File FileName="TEngineServer/Program.cs" />
+      <File FileName="TEngineServer/TEngineServer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="TEngineServer" expanded="True">
+            <Node name="Instrument" expanded="True" />
+            <Node name="Logging" expanded="True" />
+            <Node name="Order" expanded="True" />
+            <Node name="OrderBook" expanded="True">
+              <Node name="OrderBook.cs" selected="True" />
+            </Node>
+            <Node name="TEngineServer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TEngineServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

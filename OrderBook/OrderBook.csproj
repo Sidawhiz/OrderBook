@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <LandVersion>9.0</LandVersion>
+    <RootNameSpace>TEngineServer.OrderBook</RootNameSpace>
+    <AssemblyName>TEngineServer.OrderBook</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Order\Order.csproj" />
+    <ProjectReference Include="..\Instrument\Instrument.csproj" />
+  </ItemGroup>
+</Project>

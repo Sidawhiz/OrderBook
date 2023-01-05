@@ -1,0 +1,5 @@
+/Users/manaskopparicloud.com/Projects/TEngineServer/TEngineServer/obj/Debug/netcoreapp3.1/TEngineServer.csproj.AssemblyReference.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/TEngineServer/obj/Debug/netcoreapp3.1/TEngineServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manaskopparicloud.com/Projects/TEngineServer/TEngineServer/obj/Debug/netcoreapp3.1/TEngineServer.AssemblyInfoInputs.cache
+/Users/manaskopparicloud.com/Projects/TEngineServer/TEngineServer/obj/Debug/netcoreapp3.1/TEngineServer.AssemblyInfo.cs
+/Users/manaskopparicloud.com/Projects/TEngineServer/TEngineServer/obj/Debug/netcoreapp3.1/TEngineServer.csproj.CoreCompileInputs.cache
